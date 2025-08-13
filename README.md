@@ -1,2 +1,2 @@
 # nodejs_chat_app
-Node.js application running in terminal with encrypted messages
+Terminal-based Node.js chat application featuring real-time client-server-client communication, group creation, user banning-unbanning, invitations, and other features. Messages are securely encrypted using the Diffie-Hellman key exchange protocol, with all user data stored and managed in an SQL database. The project employs a modular architecture and a user-friendly command-line interface, demonstrating expertise in backend development, cryptography, database management, and real-time application design.
